@@ -3,7 +3,7 @@ import Carousel from 'react-bootstrap/Carousel';
 import Button from 'react-bootstrap/Button';
 
 const carousel = () => (
-  <Carousel className="Carousel">
+  <Carousel className="carousel">
     <Carousel.Item>
       <h1>Example Headline</h1>
       <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</h5>
