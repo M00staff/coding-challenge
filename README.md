@@ -3,7 +3,7 @@
 We realize there are often multiple solutions or answers to the same questions and to the challenge in particular. We do not necessarily have “right or wrong” in mind, we are simply looking to learn a bit about you, and your approach to development. 
 
 
-Questions:
+### Questions:
 
 #### What front-end component libraries or frameworks have you used besides bootstrap?
 
@@ -53,7 +53,7 @@ Questions:
 
 `GraphQL because it can make interactions with the backend a cake walk`
 
-`React Hooks (this is currently in progress) becuase you can use them to replace Redux (which i am actually a big fan of and understand quite well - i think the React community doesn't though)`
+`React Hooks (this is currently in progress) because you can use them to replace Redux (which i am actually a big fan of and understand quite well - i think the React community doesn't though)`
 
 
 
